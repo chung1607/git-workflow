@@ -1,1 +1,0 @@
-console.log("UPDATE T2.JS BY CR7");
